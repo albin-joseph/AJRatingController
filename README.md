@@ -4,7 +4,7 @@ AJRatingController can be used to implement the rate view in iOS applications. A
 showing the rating and also mark your rate.
 
 ##  🛠 How to set it up
-Please follow the following steps for integrate the AJRateviewController. 
+Please follow the following steps for integrating the AJRateviewController. 
 
 1. Download or clone the AJRatingController 
 2. Please drag and drop the AJRatingController files to your project source folder and add the files to your XCode project  
